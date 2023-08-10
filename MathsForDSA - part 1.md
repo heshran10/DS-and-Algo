@@ -75,4 +75,4 @@ The idea of binary exponentiation is as follows:
 2. 4^3 = 4 * (4*4)^1
 3. 16^1 = 16 * 1
 
-// Commit timestamp: 2025-07-04 10:19:00
+// Commit timestamp: 2023-08-10 12:19:00
