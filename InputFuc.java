@@ -39,4 +39,4 @@ public class InputFuc {
 // scope 2 has inner parameter which can return
 // and in main function we take input and just call
 // the function         
-// Commit timestamp: 2025-05-08 10:27:00
+// Commit timestamp: 2023-10-07 14:56:00
