@@ -13,4 +13,4 @@ public class Sumofall{
     System.out.println(total);
    }
 }
-// Commit timestamp: 2025-05-22 09:54:00
+// Commit timestamp: 2023-10-21 21:40:00
