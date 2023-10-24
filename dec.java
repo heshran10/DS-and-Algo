@@ -27,4 +27,4 @@ public class dec {
 // n number
 // n-1 print and recus
 // base case
-// Commit timestamp: 2025-03-19 13:23:00
+// Commit timestamp: 2023-10-24 12:14:00
