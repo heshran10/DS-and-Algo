@@ -20,4 +20,4 @@ public static boolean checkPalindrome(String input1){
         return true;
     }
 }
-// Commit timestamp: 2023-08-31 20:33:00
+// Commit timestamp: 2023-12-27 14:35:00
