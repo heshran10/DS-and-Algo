@@ -25,4 +25,4 @@ public class inc {
 // go untill avalue to minus 1 and then print
 // reverse the loop
 
-// Commit timestamp: 2023-10-27 11:41:00
+// Commit timestamp: 2024-02-22 14:44:00
