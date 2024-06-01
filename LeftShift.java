@@ -14,4 +14,4 @@ public class LeftShift {
 
 // ans is 64
 // formula is a *b raise 2
-// Commit timestamp: 2024-02-08 15:45:00
+// Commit timestamp: 2024-06-01 19:11:00
