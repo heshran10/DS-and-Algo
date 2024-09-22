@@ -12,4 +12,4 @@ public class BianryOr {
 }
 
 // the output is 7
-// Commit timestamp: 2024-05-28 19:20:00
+// Commit timestamp: 2024-09-22 18:32:00
