@@ -12,4 +12,4 @@ public static void printAllSubstring(String input){
         }
     }
 }
-// Commit timestamp: 2024-08-13 18:05:00
+// Commit timestamp: 2024-12-07 08:00:00
