@@ -28,4 +28,4 @@ public class Product {
 //add the numbers in it and it gaves the value
 // IN int,float it return value which can you use in the
 //next main function
-// Commit timestamp: 2024-09-22 16:28:00
+// Commit timestamp: 2025-01-14 19:38:00
