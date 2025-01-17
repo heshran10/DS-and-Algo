@@ -15,4 +15,4 @@ public class RightShift {
 // ans is 0
 // formula a / b raise 2
 
-// Commit timestamp: 2024-09-24 16:02:00
+// Commit timestamp: 2025-01-17 15:51:00
