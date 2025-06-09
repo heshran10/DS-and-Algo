@@ -52,4 +52,4 @@ public class RightRotateK {
 // right to left
 // temp ariable last n-1
 // first arr[0] = temp
-// Commit timestamp: 2025-02-11 17:06:00
+// Commit timestamp: 2025-06-09 16:59:00
