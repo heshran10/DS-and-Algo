@@ -32,6 +32,7 @@ Notes, templates, and useful snippets I use for competitive programming
 🔥 To stay consistent by solving problems daily and participating in contests
 
 🏆 Platforms Covered
+
 LeetCode
 
 GeeksforGeeks
@@ -43,6 +44,7 @@ Codeforces
 AtCoder
 
 📌 Topics Covered
+
 Arrays and Strings
 
 Linked Lists
